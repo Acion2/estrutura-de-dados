@@ -1,0 +1,5 @@
+
+BubbleSort  	 Executado em = 45 ms
+InsertionSort    Executado em = 181 ms
+QuickSort	 Executado em = 1 ms
+SelectionSort    Executado em = 31 ms
